@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=rt jupyterlab
+Exec=bash -c 'cd repos/python-getting-started; ./desktop_icon_script.sh;$SHELL'
+Comment=Start RealTime
+Terminal=true
+Type=Application
